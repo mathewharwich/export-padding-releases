@@ -2,6 +2,8 @@
 
 Extra time around your Ableton Live exports, from a small Max for Live device.
 
+![Export Padding in Ableton Live, with five-second Before and After controls and Padding ON](assets/export-padding-device.png)
+
 Place Export Padding on Main, choose the time before and after your Arrangement
 selection, and leave padding enabled. Open Live's normal Export Audio/Video
 dialog; the device extends the render bounds to include the surrounding timeline
