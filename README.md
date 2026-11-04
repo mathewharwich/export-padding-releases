@@ -37,7 +37,7 @@ Read each release's installation and compatibility notes before installing.
 
 ## Support and privacy
 
-- [Product information](https://dev.mathewharwich.com)
+- [Product information](https://dev.mathewharwich.com/projects/export-padding)
 - [Report a reproducible bug](https://github.com/mathewharwich/export-padding-releases/issues)
 
 Include the device version, Live version, macOS version, computer architecture,
